@@ -1,0 +1,2 @@
+// Props - A data that is being passed from one component to another.
+// State - A Set of data that an individual component holds.
