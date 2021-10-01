@@ -4,7 +4,21 @@
 // Mount - When a component is initially renderd in a DOM.
 // Update - When a component is Being updated.
 // Unmount - When a component is Removed from the DOM.
+
 // **_MOUNTING_**
-// Constructor
-// Render 
-// componentDidMount
+// 1.Constructor
+
+// 2.Render 
+
+// 3.componentDidMount -> It is method that will be executed at initial render.
+
+// **_UPDATING_**
+// Constructor()
+// static getDerivedStateFromProps(props, state) -> null or new state object.
+// shouldComponentUpdate(nextProp, nextState) -> false or true
+// render()
+// getSnapshotBeforeUpdate(prevProps, prevState) -> false or true
+// componentDidUpdate()
+
+// **_UNMOUNTING_**
+// componentWillUnmount()
