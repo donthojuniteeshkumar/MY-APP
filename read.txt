@@ -1,2 +1,10 @@
 // Props - A data that is being passed from one component to another.
 // State - A Set of data that an individual component holds.
+// Component Life-Cycle Methods
+// Mount - When a component is initially renderd in a DOM.
+// Update - When a component is Being updated.
+// Unmount - When a component is Removed from the DOM.
+// **_MOUNTING_**
+// Constructor
+// Render 
+// componentDidMount
