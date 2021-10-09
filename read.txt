@@ -22,3 +22,10 @@
 
 // **_UNMOUNTING_**
 // componentWillUnmount()
+
+// Hooks -> power to your functional components
+// useState()
+
+// -> Life Cycle methods
+
+// -> Hooks
